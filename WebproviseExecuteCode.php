@@ -9,7 +9,7 @@ use App\Models\WebproviseTravel;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\DB;
 
-class SeedWebproviseCompanies extends Command
+class WebproviseExecuteCode extends Command
 {
     /**
      * The name and signature of the console command.

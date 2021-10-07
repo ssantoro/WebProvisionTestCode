@@ -1,0 +1,348 @@
+array:20 [
+  0 => array:4 [
+    "id" => 1
+    "name" => "Webprovise Corp"
+    "children" => array:4 [
+      0 => array:4 [
+        "id" => 2
+        "name" => "Stamm LLC"
+        "children" => array:3 [
+          0 => array:4 [
+            "id" => 4
+            "name" => "Price and Sons"
+            "children" => []
+            "cost" => "1340.00"
+          ]
+          1 => array:4 [
+            "id" => 7
+            "name" => "Zieme - Mills"
+            "children" => []
+            "cost" => "1636.00"
+          ]
+          2 => array:4 [
+            "id" => 19
+            "name" => "Schneider - Adams"
+            "children" => []
+            "cost" => "794.00"
+          ]
+        ]
+        "cost" => "1429.00"
+      ]
+      1 => array:4 [
+        "id" => 3
+        "name" => "Blanda, Langosh and Barton"
+        "children" => array:5 [
+          0 => array:4 [
+            "id" => 5
+            "name" => "Hane - Windler"
+            "children" => []
+            "cost" => "1288.00"
+          ]
+          1 => array:4 [
+            "id" => 6
+            "name" => "Vandervort - Bechtelar"
+            "children" => []
+            "cost" => "2512.00"
+          ]
+          2 => array:4 [
+            "id" => 9
+            "name" => "Kuhic - Swift"
+            "children" => []
+            "cost" => "3086.00"
+          ]
+          3 => array:4 [
+            "id" => 17
+            "name" => "Rohan, Mayer and Haley"
+            "children" => []
+            "cost" => "4072.00"
+          ]
+          4 => array:4 [
+            "id" => 20
+            "name" => "Kunde, Armstrong and Hermann"
+            "children" => []
+            "cost" => "908.00"
+          ]
+        ]
+        "cost" => "3847.00"
+      ]
+      2 => array:4 [
+        "id" => 8
+        "name" => "Bartell - Mosciski"
+        "children" => array:5 [
+          0 => array:4 [
+            "id" => 10
+            "name" => "Lockman Inc"
+            "children" => []
+            "cost" => "4288.00"
+          ]
+          1 => array:4 [
+            "id" => 11
+            "name" => "Parker - Shanahan"
+            "children" => array:2 [
+              0 => array:4 [
+                "id" => 12
+                "name" => "Swaniawski Inc"
+                "children" => []
+                "cost" => "2110.00"
+              ]
+              1 => array:4 [
+                "id" => 14
+                "name" => "Weimann, Runolfsson and Hand"
+                "children" => []
+                "cost" => "7254.00"
+              ]
+            ]
+            "cost" => "2872.00"
+          ]
+          2 => array:4 [
+            "id" => 13
+            "name" => "Balistreri - Bruen"
+            "children" => []
+            "cost" => "1686.00"
+          ]
+          3 => array:4 [
+            "id" => 15
+            "name" => "Predovic and Sons"
+            "children" => []
+            "cost" => "4725.00"
+          ]
+          4 => array:4 [
+            "id" => 16
+            "name" => "Weissnat - Murazik"
+            "children" => []
+            "cost" => "3277.00"
+          ]
+        ]
+        "cost" => "2605.00"
+      ]
+      3 => array:4 [
+        "id" => 18
+        "name" => "Walter, Schmidt and Osinski"
+        "children" => []
+        "cost" => "2033.00"
+      ]
+    ]
+    "cost" => "1221.00"
+  ]
+  1 => array:4 [
+    "id" => 2
+    "name" => "Stamm LLC"
+    "children" => array:3 [
+      0 => array:4 [
+        "id" => 4
+        "name" => "Price and Sons"
+        "children" => []
+        "cost" => "1340.00"
+      ]
+      1 => array:4 [
+        "id" => 7
+        "name" => "Zieme - Mills"
+        "children" => []
+        "cost" => "1636.00"
+      ]
+      2 => array:4 [
+        "id" => 19
+        "name" => "Schneider - Adams"
+        "children" => []
+        "cost" => "794.00"
+      ]
+    ]
+    "cost" => "1429.00"
+  ]
+  2 => array:4 [
+    "id" => 3
+    "name" => "Blanda, Langosh and Barton"
+    "children" => array:5 [
+      0 => array:4 [
+        "id" => 5
+        "name" => "Hane - Windler"
+        "children" => []
+        "cost" => "1288.00"
+      ]
+      1 => array:4 [
+        "id" => 6
+        "name" => "Vandervort - Bechtelar"
+        "children" => []
+        "cost" => "2512.00"
+      ]
+      2 => array:4 [
+        "id" => 9
+        "name" => "Kuhic - Swift"
+        "children" => []
+        "cost" => "3086.00"
+      ]
+      3 => array:4 [
+        "id" => 17
+        "name" => "Rohan, Mayer and Haley"
+        "children" => []
+        "cost" => "4072.00"
+      ]
+      4 => array:4 [
+        "id" => 20
+        "name" => "Kunde, Armstrong and Hermann"
+        "children" => []
+        "cost" => "908.00"
+      ]
+    ]
+    "cost" => "3847.00"
+  ]
+  3 => array:4 [
+    "id" => 4
+    "name" => "Price and Sons"
+    "children" => []
+    "cost" => "1340.00"
+  ]
+  4 => array:4 [
+    "id" => 5
+    "name" => "Hane - Windler"
+    "children" => []
+    "cost" => "1288.00"
+  ]
+  5 => array:4 [
+    "id" => 6
+    "name" => "Vandervort - Bechtelar"
+    "children" => []
+    "cost" => "2512.00"
+  ]
+  6 => array:4 [
+    "id" => 7
+    "name" => "Zieme - Mills"
+    "children" => []
+    "cost" => "1636.00"
+  ]
+  7 => array:4 [
+    "id" => 8
+    "name" => "Bartell - Mosciski"
+    "children" => array:5 [
+      0 => array:4 [
+        "id" => 10
+        "name" => "Lockman Inc"
+        "children" => []
+        "cost" => "4288.00"
+      ]
+      1 => array:4 [
+        "id" => 11
+        "name" => "Parker - Shanahan"
+        "children" => array:2 [
+          0 => array:4 [
+            "id" => 12
+            "name" => "Swaniawski Inc"
+            "children" => []
+            "cost" => "2110.00"
+          ]
+          1 => array:4 [
+            "id" => 14
+            "name" => "Weimann, Runolfsson and Hand"
+            "children" => []
+            "cost" => "7254.00"
+          ]
+        ]
+        "cost" => "2872.00"
+      ]
+      2 => array:4 [
+        "id" => 13
+        "name" => "Balistreri - Bruen"
+        "children" => []
+        "cost" => "1686.00"
+      ]
+      3 => array:4 [
+        "id" => 15
+        "name" => "Predovic and Sons"
+        "children" => []
+        "cost" => "4725.00"
+      ]
+      4 => array:4 [
+        "id" => 16
+        "name" => "Weissnat - Murazik"
+        "children" => []
+        "cost" => "3277.00"
+      ]
+    ]
+    "cost" => "2605.00"
+  ]
+  8 => array:4 [
+    "id" => 9
+    "name" => "Kuhic - Swift"
+    "children" => []
+    "cost" => "3086.00"
+  ]
+  9 => array:4 [
+    "id" => 10
+    "name" => "Lockman Inc"
+    "children" => []
+    "cost" => "4288.00"
+  ]
+  10 => array:4 [
+    "id" => 11
+    "name" => "Parker - Shanahan"
+    "children" => array:2 [
+      0 => array:4 [
+        "id" => 12
+        "name" => "Swaniawski Inc"
+        "children" => []
+        "cost" => "2110.00"
+      ]
+      1 => array:4 [
+        "id" => 14
+        "name" => "Weimann, Runolfsson and Hand"
+        "children" => []
+        "cost" => "7254.00"
+      ]
+    ]
+    "cost" => "2872.00"
+  ]
+  11 => array:4 [
+    "id" => 12
+    "name" => "Swaniawski Inc"
+    "children" => []
+    "cost" => "2110.00"
+  ]
+  12 => array:4 [
+    "id" => 13
+    "name" => "Balistreri - Bruen"
+    "children" => []
+    "cost" => "1686.00"
+  ]
+  13 => array:4 [
+    "id" => 14
+    "name" => "Weimann, Runolfsson and Hand"
+    "children" => []
+    "cost" => "7254.00"
+  ]
+  14 => array:4 [
+    "id" => 15
+    "name" => "Predovic and Sons"
+    "children" => []
+    "cost" => "4725.00"
+  ]
+  15 => array:4 [
+    "id" => 16
+    "name" => "Weissnat - Murazik"
+    "children" => []
+    "cost" => "3277.00"
+  ]
+  16 => array:4 [
+    "id" => 17
+    "name" => "Rohan, Mayer and Haley"
+    "children" => []
+    "cost" => "4072.00"
+  ]
+  17 => array:4 [
+    "id" => 18
+    "name" => "Walter, Schmidt and Osinski"
+    "children" => []
+    "cost" => "2033.00"
+  ]
+  18 => array:4 [
+    "id" => 19
+    "name" => "Schneider - Adams"
+    "children" => []
+    "cost" => "794.00"
+  ]
+  19 => array:4 [
+    "id" => 20
+    "name" => "Kunde, Armstrong and Hermann"
+    "children" => []
+    "cost" => "908.00"
+  ]
+]
